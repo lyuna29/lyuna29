@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">🫧Lyuna's  story🫧</h2>
 <div align="center">
-        <a href="https://[easyhomputer.tistory.com](https://lyuna29.tistory.com/)">
+        <a href="https://lyuna29.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 </div>
