@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
         
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20lyuna's%20Github&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20lyuna's%20Github&fontSize=60&color=0:8871e5,100:b678c4&stroke=b678c4)
 </div>
 
 
