@@ -14,24 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+        
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20my%20Github.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+</div>
 
+
+
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyuna29&show_icons=true&theme=tokyonight)
+</div>
 
 <div>
+
+<h2 align="center">🔥skills</h2>
+
+<div align="center">
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</div>
+<div align="center">
         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
         <img src="https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=3FCF8E"> 
         <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
 </div>
-<div margin-top="10px">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyuna29&show_icons=true&theme=tokyonight)
-</div>
-
-
