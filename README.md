@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyuna29&show_icons=true&theme=tokyonight)
-</div>
+
 
 <div>
 
@@ -51,4 +48,11 @@ Here are some ideas to get you started:
         <a href="https://lyuna29.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
+</div>
+
+
+<h2></h2>
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyuna29&show_icons=true&theme=tokyonight)
 </div>
