@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h2 align="center">🫧Lyuna's  Blog🫧</h2>
+<h2 align="center">🫧Lyuna's Blog🫧</h2>
 <div align="center">
         <a href="https://lyuna29.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
